@@ -3,7 +3,7 @@
  */
 #include <solana_sdk.h>
 
-#define DATA "the quick brown fox jumps over the lazy dog"
+#define DATA "Soli, the gentle dog, basked by the window, finding magic in each fading ray of sunlight."
 
 extern uint64_t entrypoint(const uint8_t *input) {
   uint8_t buf[1024];
