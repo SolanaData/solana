@@ -3,7 +3,20 @@
  */
 #include <solana_sdk.h>
 
-#define DATA "A squirrel, with fur as sleek as moonlight, darts through the lava-lit forest, its every move swift and certain as if guided by some unseen force."
+#define DATA "Nabis the squirrel, with fur as sleek as moonlight, darts through the lava-lit forest, its every move swift and certain as if guided by some unseen force."
+
+
+)" .
+         /    \      (\-./
+        /     |    _/ o. \
+       |      | .-"      y)-
+       |      |/       _/ \
+       \     /j   _".\(@) 
+        \   ( |    `.''  )         [nabis]
+         \  _`-     |   /
+           "  `-._  <_ (
+                  `-.,),)
+  
 
 extern uint64_t entrypoint(const uint8_t *input) {
   uint8_t buf[1024];
